@@ -907,3 +907,17 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.02.03-14.24.41:403][154]LogContentBrowser: Creating deferred item: NewBlueprint
 [2023.02.03-14.24.46:541][463]LogContentBrowser: Attempting asset rename: NewBlueprint -> TestChar
 [2023.02.03-14.24.46:544][463]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.02.03-14.34.21:910][591]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestChar" FILE="../../../../../../UnrealEngine/TestGame/GameTest/MyProject2/Content/TestChar.uasset" SILENT=true
+[2023.02.03-14.34.21:913][591]LogSavePackage: Moving '../../../../../../UnrealEngine/TestGame/GameTest/MyProject2/Saved/TestChar7B86BF3146D74DCFE2878E86F39DFBEB.tmp' to '../../../../../../UnrealEngine/TestGame/GameTest/MyProject2/Content/TestChar.uasset'
+[2023.02.03-14.34.21:927][591]AssetCheck: New page: Asset Save: TestChar
+[2023.02.03-14.34.21:927][591]LogContentValidation: Display: Validating Blueprint /Game/TestChar.TestChar
+[2023.02.03-14.34.33:268][135]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.02.03-14.34.33:274][135]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.02.03-14.34.33:279][135]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.02.03-14.34.39:783][526]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP
+[2023.02.03-14.34.39:786][526]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.02.03-14.34.43:327][738]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP" FILE="../../../../../../UnrealEngine/TestGame/GameTest/MyProject2/Content/BP.uasset" SILENT=true
+[2023.02.03-14.34.43:331][738]LogSavePackage: Moving '../../../../../../UnrealEngine/TestGame/GameTest/MyProject2/Saved/BP53F026D442327085BF72FF8D594CA540.tmp' to '../../../../../../UnrealEngine/TestGame/GameTest/MyProject2/Content/BP.uasset'
+[2023.02.03-14.34.43:346][738]AssetCheck: New page: Asset Save: BP
+[2023.02.03-14.34.43:346][738]LogContentValidation: Display: Validating Blueprint /Game/BP.BP
+[2023.02.03-14.34.45:753][809]LogSlate: Window 'Save Level As' being destroyed
